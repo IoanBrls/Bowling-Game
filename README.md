@@ -1,5 +1,6 @@
 # Bowling-Game
-Simple League of Legends themed 2-players Bowling game
+Simple League of Legends themed 2-players Bowling game.
+
 Curriculum Project for Game Graphics course (COMP 418) at Technical University of Crete
 
 
