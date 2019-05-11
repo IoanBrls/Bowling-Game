@@ -11,3 +11,5 @@ Instructions:
 4. Use left mouse button to throw the ball in front of the player.
 5. Players play in turns.
 6. Aim for the most points.
+
+(Recommended Resolution : 1600x900)
